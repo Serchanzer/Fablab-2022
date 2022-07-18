@@ -1,0 +1,2698 @@
+#VRML V2.0 utf8
+
+Group {
+	children [
+
+	Shape {
+		appearance DEF A0000000063B338000000000000000000 Appearance {
+			material Material {
+				diffuseColor 0.8 0.8 0.8
+				specularColor 0.4 0.4 0.4
+				emissiveColor 0.5 0.5 0.5
+				ambientIntensity 0.8
+				shininess 0.2
+				transparency 0
+			}
+		}
+		geometry DEF 000000003DEDEEF0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-1250 -312.5 6,
+					-1250 -352.5 6,
+					-1250 -352.5 1606,
+					-1250 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDE2F0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-1250 -352.5 6,
+					-1200 -352.5 6,
+					-1200 -352.5 1606,
+					-1250 -352.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDF1F0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-1200 -352.5 6,
+					-1200 -312.5 6,
+					-1200 -312.5 1606,
+					-1200 -352.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDF4F0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-1200 -312.5 6,
+					-1250 -312.5 6,
+					-1250 -312.5 1606,
+					-1200 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					1.42109e-16 1 0,
+					1.42109e-16 1 0,
+					1.42109e-16 1 0,
+					1.42109e-16 1 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDF670 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-1250 -312.5 1606,
+					-1250 -352.5 1606,
+					-1200 -352.5 1606,
+					-1200 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					0 0 1,
+					0 0 1,
+					0 0 1,
+					0 0 1
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDFAF0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-1250 -352.5 6,
+					-1200 -352.5 6,
+					-1200 -312.5 6,
+					-1250 -312.5 6
+				]
+			}
+			normal Normal {
+				vector [
+					-0 -0 -1,
+					-0 -0 -1,
+					-0 -0 -1,
+					-0 -0 -1
+				]
+			}
+			coordIndex [
+				1,	0,	3,	-1,
+				3,	2,	1,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDE5F0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-25 -312.5 6,
+					-25 -352.5 6,
+					-25 -352.5 1606,
+					-25 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDF7F0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-25 -352.5 6,
+					25 -352.5 6,
+					25 -352.5 1606,
+					-25 -352.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDFF70 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					25 -352.5 6,
+					25 -312.5 6,
+					25 -312.5 1606,
+					25 -352.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDF970 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					25 -312.5 6,
+					-25 -312.5 6,
+					-25 -312.5 1606,
+					25 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					1.42109e-16 1 0,
+					1.42109e-16 1 0,
+					1.42109e-16 1 0,
+					1.42109e-16 1 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDFDF0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-25 -312.5 1606,
+					-25 -352.5 1606,
+					25 -352.5 1606,
+					25 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					0 0 1,
+					0 0 1,
+					0 0 1,
+					0 0 1
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDE770 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					-25 -352.5 6,
+					25 -352.5 6,
+					25 -312.5 6,
+					-25 -312.5 6
+				]
+			}
+			normal Normal {
+				vector [
+					-0 -0 -1,
+					-0 -0 -1,
+					-0 -0 -1,
+					-0 -0 -1
+				]
+			}
+			coordIndex [
+				1,	0,	3,	-1,
+				3,	2,	1,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDE8F0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					1200 -312.5 6,
+					1200 -352.5 6,
+					1200 -352.5 1606,
+					1200 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0,
+					-1 1.77636e-16 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000003DEDEA70 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					1200 -352.5 6,
+					1250 -352.5 6,
+					1250 -352.5 1606,
+					1200 -352.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0,
+					-1.42109e-16 -1 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000005B680E60 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					1250 -352.5 6,
+					1250 -312.5 6,
+					1250 -312.5 1606,
+					1250 -352.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0,
+					1 -1.77636e-16 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000005B6812E0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					1250 -312.5 6,
+					1200 -312.5 6,
+					1200 -312.5 1606,
+					1250 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					1.42109e-16 1 0,
+					1.42109e-16 1 0,
+					1.42109e-16 1 0,
+					1.42109e-16 1 0
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000005B681460 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					1200 -312.5 1606,
+					1200 -352.5 1606,
+					1250 -352.5 1606,
+					1250 -312.5 1606
+				]
+			}
+			normal Normal {
+				vector [
+					0 0 1,
+					0 0 1,
+					0 0 1,
+					0 0 1
+				]
+			}
+			coordIndex [
+				3,	0,	1,	-1,
+				1,	2,	3,	-1
+			]
+		}
+	}
+	Shape {
+		appearance USE A0000000063B338000000000000000000
+		geometry DEF 000000005B6815E0 IndexedFaceSet {
+			creaseAngle 2
+			coord Coordinate {
+				point [
+					1200 -352.5 6,
+					1250 -352.5 6,
+					1250 -312.5 6,
+					1200 -312.5 6
+				]
+			}
+			normal Normal {
+				vector [
+					-0 -0 -1,
+					-0 -0 -1,
+					-0 -0 -1,
+					-0 -0 -1
+				]
+			}
+			coordIndex [
+				1,	0,	3,	-1,
+				3,	2,	1,	-1
+			]
+		}
+	}	Group {
+		children [
+		Group {
+			children [
+			Group {
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 000000005B6818E0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-1250 312.5 0,
+									-1250 -312.5 0,
+									-1250 -312.5 6,
+									-1250 312.5 6
+								]
+							}
+							normal Normal {
+								vector [
+									-1 0 0,
+									-1 0 0,
+									-1 0 0,
+									-1 0 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 000000005B681A60 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-1250 -312.5 0,
+									1250 -312.5 0,
+									1250 -312.5 6,
+									-1250 -312.5 6
+								]
+							}
+							normal Normal {
+								vector [
+									-1.36424e-16 -1 0,
+									-1.36424e-16 -1 0,
+									-1.36424e-16 -1 0,
+									-1.36424e-16 -1 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 000000005B6851E0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									1250 -312.5 0,
+									1250 312.5 0,
+									1250 312.5 6,
+									1250 -312.5 6
+								]
+							}
+							normal Normal {
+								vector [
+									1 0 0,
+									1 0 0,
+									1 0 0,
+									1 0 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 000000005B685AE0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									1250 312.5 0,
+									-1250 312.5 0,
+									-1250 312.5 6,
+									1250 312.5 6
+								]
+							}
+							normal Normal {
+								vector [
+									1.36424e-16 1 0,
+									1.36424e-16 1 0,
+									1.36424e-16 1 0,
+									1.36424e-16 1 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 000000003E6F0D50 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-1250 312.5 6,
+									-1250 -312.5 6,
+									1250 -312.5 6,
+									1250 312.5 6
+								]
+							}
+							normal Normal {
+								vector [
+									0 0 1,
+									0 0 1,
+									0 0 1,
+									0 0 1
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 000000003E858660 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-1250 -312.5 0,
+									1250 -312.5 0,
+									1250 312.5 0,
+									-1250 312.5 0
+								]
+							}
+							normal Normal {
+								vector [
+									-0 -0 -1,
+									-0 -0 -1,
+									-0 -0 -1,
+									-0 -0 -1
+								]
+							}
+							coordIndex [
+								1,	0,	3,	-1,
+								3,	2,	1,	-1
+							]
+						}
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 -292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 000000003E7E72B0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 20 0,
+									-25 -20 0,
+									-25 -20 2500,
+									-25 20 2500
+								]
+							}
+							normal Normal {
+								vector [
+									-1 1.77636e-16 0,
+									-1 1.77636e-16 0,
+									-1 1.77636e-16 0,
+									-1 1.77636e-16 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E63F0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 -20 0,
+									25 -20 0,
+									25 -20 2500,
+									-25 -20 2500
+								]
+							}
+							normal Normal {
+								vector [
+									-1.42109e-16 -1 0,
+									-1.42109e-16 -1 0,
+									-1.42109e-16 -1 0,
+									-1.42109e-16 -1 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E78F0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									25 -20 0,
+									25 20 0,
+									25 20 2500,
+									25 -20 2500
+								]
+							}
+							normal Normal {
+								vector [
+									1 -1.77636e-16 0,
+									1 -1.77636e-16 0,
+									1 -1.77636e-16 0,
+									1 -1.77636e-16 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E3E70 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									25 20 0,
+									-25 20 0,
+									-25 20 2500,
+									25 20 2500
+								]
+							}
+							normal Normal {
+								vector [
+									1.42109e-16 1 0,
+									1.42109e-16 1 0,
+									1.42109e-16 1 0,
+									1.42109e-16 1 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E3270 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 20 2500,
+									-25 -20 2500,
+									25 -20 2500,
+									25 20 2500
+								]
+							}
+							normal Normal {
+								vector [
+									0 0 1,
+									0 0 1,
+									0 0 1,
+									0 0 1
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E3FF0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 -20 0,
+									25 -20 0,
+									25 20 0,
+									-25 20 0
+								]
+							}
+							normal Normal {
+								vector [
+									-0 -0 -1,
+									-0 -0 -1,
+									-0 -0 -1,
+									-0 -0 -1
+								]
+							}
+							coordIndex [
+								1,	0,	3,	-1,
+								3,	2,	1,	-1
+							]
+						}
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E6570 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 20 0,
+									-25 -20 0,
+									-25 -20 545,
+									-25 20 545
+								]
+							}
+							normal Normal {
+								vector [
+									-1 1.77636e-16 0,
+									-1 1.77636e-16 0,
+									-1 1.77636e-16 0,
+									-1 1.77636e-16 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E6270 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 -20 0,
+									25 -20 0,
+									25 -20 545,
+									-25 -20 545
+								]
+							}
+							normal Normal {
+								vector [
+									-1.42109e-16 -1 0,
+									-1.42109e-16 -1 0,
+									-1.42109e-16 -1 0,
+									-1.42109e-16 -1 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E60F0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									25 -20 0,
+									25 20 0,
+									25 20 545,
+									25 -20 545
+								]
+							}
+							normal Normal {
+								vector [
+									1 -1.77636e-16 0,
+									1 -1.77636e-16 0,
+									1 -1.77636e-16 0,
+									1 -1.77636e-16 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E48F0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									25 20 0,
+									-25 20 0,
+									-25 20 545,
+									25 20 545
+								]
+							}
+							normal Normal {
+								vector [
+									1.42109e-16 1 0,
+									1.42109e-16 1 0,
+									1.42109e-16 1 0,
+									1.42109e-16 1 0
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E2AF0 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 20 545,
+									-25 -20 545,
+									25 -20 545,
+									25 20 545
+								]
+							}
+							normal Normal {
+								vector [
+									0 0 1,
+									0 0 1,
+									0 0 1,
+									0 0 1
+								]
+							}
+							coordIndex [
+								3,	0,	1,	-1,
+								1,	2,	3,	-1
+							]
+						}
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry DEF 00000000639E2C70 IndexedFaceSet {
+							creaseAngle 2
+							coord Coordinate {
+								point [
+									-25 -20 0,
+									25 -20 0,
+									25 20 0,
+									-25 20 0
+								]
+							}
+							normal Normal {
+								vector [
+									-0 -0 -1,
+									-0 -0 -1,
+									-0 -0 -1,
+									-0 -0 -1
+								]
+							}
+							coordIndex [
+								1,	0,	3,	-1,
+								3,	2,	1,	-1
+							]
+						}
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			]
+		}
+		]
+	}
+	Transform {
+		translation -1225 332.5 6
+		children [
+
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E4170 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-25 20 0,
+							-25 -20 0,
+							-25 -20 1600,
+							-25 20 1600
+						]
+					}
+					normal Normal {
+						vector [
+							-1 1.77636e-16 0,
+							-1 1.77636e-16 0,
+							-1 1.77636e-16 0,
+							-1 1.77636e-16 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E3570 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-25 -20 0,
+							25 -20 0,
+							25 -20 1600,
+							-25 -20 1600
+						]
+					}
+					normal Normal {
+						vector [
+							-1.42109e-16 -1 0,
+							-1.42109e-16 -1 0,
+							-1.42109e-16 -1 0,
+							-1.42109e-16 -1 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E66F0 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							25 -20 0,
+							25 20 0,
+							25 20 1600,
+							25 -20 1600
+						]
+					}
+					normal Normal {
+						vector [
+							1 -1.77636e-16 0,
+							1 -1.77636e-16 0,
+							1 -1.77636e-16 0,
+							1 -1.77636e-16 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E39F0 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							25 20 0,
+							-25 20 0,
+							-25 20 1600,
+							25 20 1600
+						]
+					}
+					normal Normal {
+						vector [
+							1.42109e-16 1 0,
+							1.42109e-16 1 0,
+							1.42109e-16 1 0,
+							1.42109e-16 1 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E6870 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-25 20 1600,
+							-25 -20 1600,
+							25 -20 1600,
+							25 20 1600
+						]
+					}
+					normal Normal {
+						vector [
+							0 0 1,
+							0 0 1,
+							0 0 1,
+							0 0 1
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E30F0 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-25 -20 0,
+							25 -20 0,
+							25 20 0,
+							-25 20 0
+						]
+					}
+					normal Normal {
+						vector [
+							-0 -0 -1,
+							-0 -0 -1,
+							-0 -0 -1,
+							-0 -0 -1
+						]
+					}
+					coordIndex [
+						1,	0,	3,	-1,
+						3,	2,	1,	-1
+					]
+				}
+			}
+		]
+	}
+	Transform {
+		translation 0 332.5 6
+		children [
+
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E4170
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3570
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E66F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E39F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E6870
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E30F0
+
+			}
+		]
+	}
+	Transform {
+		translation 1225 332.5 6
+		children [
+
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E4170
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3570
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E66F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E39F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E6870
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E30F0
+
+			}
+		]
+	}
+	Transform {
+		translation 0 0 360
+		children [
+		Group {
+			children [
+			Group {
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6818E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B681A60
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6851E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B685AE0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E6F0D50
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E858660
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 -292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			]
+		}
+		]
+	}
+	Transform {
+		translation 0 0 720
+		children [
+		Group {
+			children [
+			Group {
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6818E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B681A60
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6851E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B685AE0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E6F0D50
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E858660
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 -292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			]
+		}
+		]
+	}
+	Transform {
+		translation 0 0 1080
+		children [
+		Group {
+			children [
+			Group {
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6818E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B681A60
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6851E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B685AE0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E6F0D50
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E858660
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 -292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			]
+		}
+		]
+	}
+	Transform {
+		translation 0 0 1440
+		children [
+		Group {
+			children [
+			Group {
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6818E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B681A60
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B6851E0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000005B685AE0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E6F0D50
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E858660
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 -292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.707107 4.32978e-17 -0.707107 3.14159
+				translation -1250 292.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 000000003E7E72B0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E63F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E78F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3E70
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E3FF0
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation 254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -254 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			Transform {
+				rotation -0.57735 -0.57735 0.57735 4.18879
+				translation -762 272.5 31
+				children [
+
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6570
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E6270
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E60F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E48F0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2AF0
+
+					}
+					Shape {
+						appearance USE A0000000063B338000000000000000000
+						geometry USE 00000000639E2C70
+
+					}
+				]
+			}
+			]
+		}
+		]
+	}
+	Transform {
+		rotation 1 -1.42109e-16 1.42109e-16 1.5708
+		translation -3.41061e-13 -306.5 208
+		children [
+
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E7BF0 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-1250 152 0,
+							-1250 -152 0,
+							-1250 -152 6,
+							-1250 152 6
+						]
+					}
+					normal Normal {
+						vector [
+							-1 0 0,
+							-1 0 0,
+							-1 0 0,
+							-1 0 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E33F0 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-1250 -152 0,
+							1250 -152 0,
+							1250 -152 6,
+							-1250 -152 6
+						]
+					}
+					normal Normal {
+						vector [
+							-1.13687e-16 -1 0,
+							-1.13687e-16 -1 0,
+							-1.13687e-16 -1 0,
+							-1.13687e-16 -1 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E3B70 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							1250 -152 0,
+							1250 152 0,
+							1250 152 6,
+							1250 -152 6
+						]
+					}
+					normal Normal {
+						vector [
+							1 0 0,
+							1 0 0,
+							1 0 0,
+							1 0 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E2970 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							1250 152 0,
+							-1250 152 0,
+							-1250 152 6,
+							1250 152 6
+						]
+					}
+					normal Normal {
+						vector [
+							1.13687e-16 1 0,
+							1.13687e-16 1 0,
+							1.13687e-16 1 0,
+							1.13687e-16 1 0
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E72F0 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-1250 152 6,
+							-1250 -152 6,
+							1250 -152 6,
+							1250 152 6
+						]
+					}
+					normal Normal {
+						vector [
+							0 0 1,
+							0 0 1,
+							0 0 1,
+							0 0 1
+						]
+					}
+					coordIndex [
+						3,	0,	1,	-1,
+						1,	2,	3,	-1
+					]
+				}
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry DEF 00000000639E3CF0 IndexedFaceSet {
+					creaseAngle 2
+					coord Coordinate {
+						point [
+							-1250 -152 0,
+							1250 -152 0,
+							1250 152 0,
+							-1250 152 0
+						]
+					}
+					normal Normal {
+						vector [
+							-0 -0 -1,
+							-0 -0 -1,
+							-0 -0 -1,
+							-0 -0 -1
+						]
+					}
+					coordIndex [
+						1,	0,	3,	-1,
+						3,	2,	1,	-1
+					]
+				}
+			}
+		]
+	}
+	Transform {
+		rotation 1 -1.42109e-16 1.42109e-16 1.5708
+		translation -4.54747e-13 -306.5 568
+		children [
+
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E7BF0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E33F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3B70
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E2970
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E72F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3CF0
+
+			}
+		]
+	}
+	Transform {
+		rotation 1 -1.42109e-16 1.42109e-16 1.5708
+		translation -4.54747e-13 -306.5 928
+		children [
+
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E7BF0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E33F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3B70
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E2970
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E72F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3CF0
+
+			}
+		]
+	}
+	Transform {
+		rotation 1 -1.42109e-16 1.42109e-16 1.5708
+		translation -4.54747e-13 -306.5 1288
+		children [
+
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E7BF0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E33F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3B70
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E2970
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E72F0
+
+			}
+			Shape {
+				appearance USE A0000000063B338000000000000000000
+				geometry USE 00000000639E3CF0
+
+			}
+		]
+	}
+	]
+}
